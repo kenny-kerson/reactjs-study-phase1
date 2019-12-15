@@ -24,5 +24,8 @@
 `yarn eject`
 - 소스코드 패키징 풀기 : ex) webpack 설정 
 
-## 샘플서버
-- 샘플서버 소스코드 : https://github.com/kenny-kerson/simple-uat-automation-server
+## axios 연동 샘플서버 
+- 소스코드 : https://github.com/kenny-ker버son/simple-uat-automation-server
+
+## (참고) Vue.js로 구현한 소스코드
+- 소스코드 : https://github.com/kenny-kerson/vuejs-study-phase1
