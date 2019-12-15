@@ -16,7 +16,7 @@
 - react-scripts 사용
 
 `yarn start`
-- 개발서버 기동
+- 개발서버 기동  
 
 `yarn build`
 - 소스코드 빌드 : transpile + bundling
